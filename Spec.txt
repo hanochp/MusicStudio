@@ -1,0 +1,17 @@
+I run a music studio where people come to record their songs. I need a system that helps me keep track of who came in, when they came, how long they recorded, and how long I spent mixing their tracks afterward. I want this to be organized and easy to use, so I can focus on the creative side without losing track of the logistics.
+Here’s what I need: 
+1. Clients
+Basic info about each person who records at my studio.
+- client_id: unique ID
+- name: full name
+- contact_info: phone or email
+- date: session date
+- start_time and end_time: when recording started and ended
+- recording_duration: calculated from start/end
+- notes: anything I want to jot down
+
+📊 Reports I Want Weekly
+- Total time spent recording this week
+- Total time spent mixing this week
+- Number of sessions this week
+- Average session length
