@@ -1,0 +1,5 @@
+CREATE DATABASE MusicStudioDB;
+GO
+
+USE MusicStudioDB;
+GO
